@@ -19,7 +19,7 @@ def main(url):
     project0.populatedb(db, incidents)
 
     # Print incident counts
-    project0.status(db)
+    print(project0.status(db))
 
 
 if __name__ == '__main__':

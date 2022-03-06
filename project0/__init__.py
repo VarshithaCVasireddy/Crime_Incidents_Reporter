@@ -115,4 +115,4 @@ def status(db_name):
     for row in rows:
         out_str += f'{row[0]}|{row[1]}\n'
 
-    print(out_str)
+    return out_str

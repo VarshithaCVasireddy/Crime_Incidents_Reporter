@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pypdf2 = "*"
 project0 = {editable = true, path = "."}
+pytest = "*"
 
 [dev-packages]
 autopep8 = "*"
