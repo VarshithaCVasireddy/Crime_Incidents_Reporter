@@ -219,5 +219,5 @@ Then run the below command by providing URL
 
 Then run the below command to test the testcases. 
 
-> pytest -v
+> pipenv run python -m pytest -v
 
