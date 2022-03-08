@@ -1,5 +1,4 @@
 import pytest
-from types import NoneType
 import os
 import io
 import sqlite3
