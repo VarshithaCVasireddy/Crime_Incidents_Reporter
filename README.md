@@ -206,11 +206,16 @@ clone the project directory using below command
 > git clone  https://github.com/VarshithaCVasireddy/cs5293sp22-project0
 
 - **Step2** \
-Navigate to directory that we cloned from git and run the below command by providing URL
+Navigate to directory that we cloned from git and run the below command to install dependencies
+
+> pipenv install
+
+- **Step3** \
+Then run the below command by providing URL
 
 > pipenv run python project0/main.py --incidents **URL**
 
-- **Step3** 
+- **Step4** 
 
 Then run the below command to test the testcases. 
 
