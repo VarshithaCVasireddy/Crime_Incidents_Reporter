@@ -1,13 +1,6 @@
-## cs5293sp22-project0
+## Crime Incidents Reporter
 
 ## Author: Varshitha Choudary Vasireddy
-
-## Setting up the Initial installations 
-We run the following installations in the project's virtual environment. Even if the installations are done in the Python environment, in the project's virtual environment, there might be an error popping up "no module named nltk"
-~~~
-pipenv install pyPDF2
-~~~
-The other packages are built-in modules, so they don't need to be installed separately rather they just have to be imported into the code.
 
 ## Description of the project:
 
@@ -24,6 +17,14 @@ The website contains three types of summaries arrests, incidents, and case summa
 - To create a SQLite database to store the data;
 - To Insert the data into the database;
 - To Print each nature and the number of times it appears
+
+## Setting up the Initial installations 
+We run the following installations in the project's virtual environment. Even if the installations are done in the Python environment, in the project's virtual environment, there might be an error popping up "no module named nltk"
+~~~
+pipenv install pyPDF2
+~~~
+The other packages are built-in modules, so they don't need to be installed separately rather they just have to be imported into the code.
+
 
 ## Packages Required for Project:
 
