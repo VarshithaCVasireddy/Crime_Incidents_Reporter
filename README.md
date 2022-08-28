@@ -151,7 +151,7 @@ return os.path.join(cwd, 'tests', 'sample.pdf')
 it returns the path to sample.pdf file from tests directory in the current directory
 
 ### **test_fetchincidents():**
-
+<br>
 ![SS8](https://user-images.githubusercontent.com/96924488/157276943-3ca0ab7e-c1e8-4634-a84f-381c2439b69a.png)
 <br>
 In this test method operations of fetchincidents method will be done on the "sample file" and then it is checked if the file is of type bytes from assert isinstance.
@@ -162,7 +162,7 @@ As the fetchincidents function should have bytes as data.
 ![SS9](https://user-images.githubusercontent.com/96924488/157276967-806dc69a-7924-4fdd-be29-13aab0d523a9.png)
 <br>
 In this test case we test the extractincidents, the sample will be opened and operations of extractincidents method will be performed on this file. The list data length of the sample file I used is "237" so after performing the method to the data, it is checked if the result is same as the len of the data that I used, to check the method. If it is same then the test case will be passed.
-
+<br>
 
 ### **test_createdb():**
 
