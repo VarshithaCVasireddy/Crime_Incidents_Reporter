@@ -204,7 +204,7 @@ I used the following command to run my python tests for the given function.
 
 - **Step1** \
 clone the project directory using below command 
-> git clone  https://github.com/VarshithaCVasireddy/cs5293sp22-project0
+> git clone  https://github.com/VarshithaCVasireddy/Crime_Incidents_Reporter
 
 - **Step2** \
 Navigate to directory that we cloned from git and run the below command to install dependencies
