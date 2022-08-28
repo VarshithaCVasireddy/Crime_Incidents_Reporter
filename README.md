@@ -152,7 +152,9 @@ it returns the path to sample.pdf file from tests directory in the current direc
 
 ### **test_fetchincidents():**
 <br>
+
 ![SS8](https://user-images.githubusercontent.com/96924488/157276943-3ca0ab7e-c1e8-4634-a84f-381c2439b69a.png)
+
 <br>
 In this test method operations of fetchincidents method will be done on the "sample file" and then it is checked if the file is of type bytes from assert isinstance.
 As the fetchincidents function should have bytes as data.
@@ -183,6 +185,7 @@ In this method we test the **populated()** method, few incidents will be pushed 
 ## **test_status( ):**
 
 In this method we test the **status()** method.
+<br>
  ![SS12](https://user-images.githubusercontent.com/96924488/157277117-c3821d7e-5670-491d-8e92-c2cb24d61d62.png)
 <br>
 Like previous function, incidents data will be pushed into the database. Then populatedb method will be executed on it, it will give a result and that result is compared with result that we already expect, and if they both are same test case will be passed.
