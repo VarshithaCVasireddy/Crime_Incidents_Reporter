@@ -5,7 +5,7 @@
 ## Description of the project:
 
 The Norman, Oklahoma police department regularly reports incidents, arrests, and other activities. This data is distributed to the public in the form of PDF files.
-The website contains three types of summaries arrests, incidents, and case summaries. In this project a function is built that collects only the incidents. And Following operations are to be done
+The website contains three types of summaries arrests, incidents, and case summaries. In this project a function is built that collects only the incidents. And Following operations are done
 
 - To download the data given one incident pdf
 - To Extract the below fields:
